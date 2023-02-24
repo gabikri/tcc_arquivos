@@ -1,0 +1,15 @@
+
+Para a realialização do nosso exercício serão tuilizados dados diários de contratosa futuros e spots provenientes das negociações realizadas na bolsa Binance no período xxxx a xxxx 
+
+Como metodologia de tratamento dos dados foi elaborada uma série de base encadeada de contratos funturos e spot considerando que 15 dias antes do termino do prazo de vencimento de um determinado contrato passaria-se a analisar o contrato seguinte da série encadeada. Essa estratégia foi utilizada devido a periodicidade dos dados utilizados e conforme a metodologia utilizada no artigo ......
+ 
+
+Falar como pegamos os preços futuros e spot
+
+Como calculamos o TTM
+
+
+Hipotese da covariancia negativa
+conforme se aproxima do vencimento a volatilidade é maior
+
+Quanto a hipotes de samuelson é valida os investidores preferem mudar o vencimento do contrto caso contrario exigiram um prêmio de risco maior para manter o papel até o vencimento.
